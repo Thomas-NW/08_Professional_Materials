@@ -13,7 +13,7 @@ In this update, the wireframe did not change ntegrated.
 
 ![Profile-TS](./Images/profilescreenshot-2.png)
 
-https://thomas-nw.github.io/Profile_TS/
+https://thomas-nw.github.io/08_Professional_Materials/
 
 
 ## Important Notation
